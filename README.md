@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9699F7&width=435&lines=Welcome+to+my+Github+profile!;Hi%2C+everyone!+I'm+Larissa+Silva.)](https://git.io/typing-svg)
-<img src="https://cdn.discordapp.com/attachments/628043555163602974/1298088026030735360/op1.gif?ex=6735f3ee&is=6734a26e&hm=727184fab27b0f835b8ead35c70cd502ee05752b9ef2ef7be65af851c5791c21&" alt="Pixel Art" align="right" width="290">
+<img src="https://cdn.discordapp.com/attachments/628043555163602974/1298088026030735360/op1.gif?ex=6735f3ee&is=6734a26e&hm=727184fab27b0f835b8ead35c70cd502ee05752b9ef2ef7be65af851c5791c21&" alt="Pixel Art" align="right" width="295">
 
 
 ### Technologies and tools:
